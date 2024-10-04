@@ -1,5 +1,10 @@
 openai
 langchain
 streamlit
-huggingfacepython-dotenv
+python-dotenv
 PyPDF2
+huggingface_hub
+
+
+
+-e. #### automatically it will search out the packages into our current folder or current repo and it will execute the setup.py in backend.
